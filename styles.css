@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background-color: black;
+  font-weight: bold;
+  color: #555;
+  text-align: center;
+}
+
+div {
+  text-align: center;
+}
+
+h1 {
+  font-size: 1.75rem;
+}
+
+a:link {
+  text-align: center;
+  color:#555;
+  font-size: 1.5rem;
+}
+
+a:visited {
+  text-align: center;
+  color:#555;
+  font-size: 1.5rem;
+}
